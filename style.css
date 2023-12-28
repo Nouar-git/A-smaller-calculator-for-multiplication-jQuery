@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(177, 227, 210);
+    text-align: center;
+    padding-top: 50px;
+    font-family: Georgia;
+}
+
+h1 {
+    font-size: x-large;
+    padding-bottom: 25px;
+    color: darkblue;
+}
+
+label {
+    font-size: large;
+}
+
+input {
+    border: 20%;
+    padding-bottom: 5px;
+}
+
+#result-box{
+    padding-bottom: 5px;
+}
+
+
+
+
